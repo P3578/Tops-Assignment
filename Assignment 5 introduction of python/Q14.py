@@ -1,1 +1,0 @@
-# write a python program that use a coustm iterator to iterate over a list of integers.
