@@ -14,6 +14,6 @@ lst_number_copy.sort()
 print (lst_number_copy)
 
 # sorted():
-sorted(lst_number)
-print (lst_number)
+ans = sorted(lst_number)
+print (ans)
 
